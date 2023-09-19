@@ -1,0 +1,10 @@
+header {
+    flex-grow: 0;
+    background-color:  var(--light-gray);
+    padding: 15px 40px;
+}
+
+header h3 {
+    font-size: 28px;
+    font-weight: 300;
+}

@@ -1,0 +1,24 @@
+:root {
+    --light-gray: rgb(225, 225, 225);
+    --dark: rgb(30, 30, 30);
+
+    --dim-red: rgb(173, 55, 55);
+
+    --turquoise-1: #5ED1BA;
+    --turquoise-2: #34D1B2;
+    --turquoise-3: #00A383;
+    --turquoise-4: #1F7A68;
+    --turquoise-5: #006A55;
+
+    --blue-1: #6A94D4;
+    --blue-2: #437DD4;
+    --blue-3: #0F4DA8;
+    --blue-4: #284B7E;
+    --blue-5: #052F6D;
+
+    --orange-1: #FFAA73;
+    --orange-2: #FF8B40;
+    --orange-3: #FF6400;
+    --orange-4: #BF6830;
+    --orange-5: #A64100;
+}
